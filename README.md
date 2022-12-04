@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com) -->
 
 Full Stack Development @vyorius
+
 Enthusiast of the best web development technologies.
 
 Passionate about education and changing people's lives through programming. More than 200,000 people have already undergone one of my trainings.
