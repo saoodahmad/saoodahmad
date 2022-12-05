@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com) -->
 
 > “The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past.”
-— Tim Berners-Lee, Inventor of the World Wide Web
+— Tim Berners-Lee
 
 Currently: Full Stack Development @vyorius
 
