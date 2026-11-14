@@ -16,9 +16,9 @@
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/saoodahmad/">LinkedIn</a>
     &nbsp;·&nbsp;
-    <a href="mailto:YOUR_EMAIL@example.com">Email</a>
+    <a href="mailto:hello@saoodahmad.com">Email</a>
     &nbsp;·&nbsp;
     <a href="#selected-projects">Selected projects</a>
   </p>
