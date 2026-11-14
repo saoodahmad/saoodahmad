@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+<title id="title">Saood Ahmad — Full-stack software engineer</title>
+<desc id="desc">A dark navy and violet engineering-themed banner with interconnected frontend, backend, and real-time systems blocks.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#101529"/>
+    <stop offset="0.56" stop-color="#14182f"/>
+    <stop offset="1" stop-color="#21183e"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#6DE3E2"/>
+    <stop offset="0.5" stop-color="#A5A3FF"/>
+    <stop offset="1" stop-color="#ED9FCB"/>
+  </linearGradient>
+  <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#29304B" stop-opacity="0.96"/>
+    <stop offset="1" stop-color="#202440" stop-opacity="0.96"/>
+  </linearGradient>
+  <radialGradient id="glow">
+    <stop offset="0" stop-color="#6757B7" stop-opacity=".27"/>
+    <stop offset="1" stop-color="#6757B7" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="33" height="33" patternUnits="userSpaceOnUse">
+    <path d="M33 0H0V33" fill="none" stroke="#A8B4DD" stroke-opacity=".07" stroke-width="1" />
+  </pattern>
+  <filter id="shadow" x="-35%" y="-35%" width="170%" height="170%">
+    <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#020612" flood-opacity=".45" />
+  </filter>
+</defs>
+<rect width="1200" height="370" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="370" rx="20" fill="url(#grid)"/>
+<ellipse cx="1035" cy="170" rx="380" ry="300" fill="url(#glow)"/>
+<path d="M0 0H1200" stroke="url(#accent)" stroke-width="6"/>
+<rect x="66" y="55" width="8" height="8" rx="2" fill="#6DE3E2"/>
+<text x="86" y="63" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="3" font-weight="700" fill="#A5B7D6">ENGINEERING / BUILDING / LEARNING</text>
+<text x="64" y="157" font-family="Arial,Helvetica,sans-serif" font-size="71" font-weight="750" letter-spacing="-2.1" fill="#F7F8FF">Saood Ahmad</text>
+<text x="67" y="202" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="600" fill="#B8BFF0">Full-stack software engineer</text>
+<rect x="66" y="229" width="69" height="4" rx="2" fill="url(#accent)"/>
+<text x="66" y="277" font-family="Arial,Helvetica,sans-serif" font-size="18.5" fill="#D5DCF4">From frontend architecture to real-time systems.</text>
+<text x="66" y="312" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#9CA9CB">React  •  Spring Boot  •  Node.js  •  Go</text>
+<!-- System diagram -->
+<g filter="url(#shadow)">
+  <path d="M897 101 V130 M897 193 V218" stroke="#89B6D5" stroke-width="2" stroke-dasharray="5 5" opacity=".65"/>
+  <rect x="768" y="37" width="264" height="64" rx="13" fill="url(#card)" stroke="#6E79A1" stroke-opacity=".64"/>
+  <rect x="786" y="52" width="6" height="34" rx="3" fill="#72D5DE"/>
+  <text x="807" y="62" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2" font-weight="700" fill="#86C6D9">FRONTEND</text>
+  <text x="807" y="84" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#F0F2FF">React + Vite</text>
+  <rect x="768" y="130" width="264" height="64" rx="13" fill="url(#card)" stroke="#8576A7" stroke-opacity=".78"/>
+  <rect x="786" y="145" width="6" height="34" rx="3" fill="#B1A4FF"/>
+  <text x="807" y="155" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2" font-weight="700" fill="#B7B2FF">BACKEND</text>
+  <text x="807" y="177" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#F0F2FF">Spring + Node.js</text>
+  <rect x="768" y="218" width="264" height="64" rx="13" fill="url(#card)" stroke="#9B749A" stroke-opacity=".78"/>
+  <rect x="786" y="233" width="6" height="34" rx="3" fill="#EF9ECC"/>
+  <text x="807" y="243" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2" font-weight="700" fill="#E2ADD0">REAL-TIME</text>
+  <text x="807" y="265" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#F0F2FF">WebRTC + Go</text>
+</g>
+<circle cx="897" cy="115" r="4.5" fill="#74D8E1"/>
+<circle cx="897" cy="207" r="4.5" fill="#B0A6FF"/>
+<path d="M1038 68 H1093 V151 H1051" fill="none" stroke="#8A84C4" stroke-width="1.5" opacity=".4" stroke-dasharray="3 6"/>
+<circle cx="1093" cy="151" r="6" fill="#191A37" stroke="#B9A4F6" stroke-width="2"/>
+<path d="M1038 252 H1107 V306 H1007" fill="none" stroke="#9E6B9D" stroke-width="1.5" opacity=".4" stroke-dasharray="3 6"/>
+<circle cx="1107" cy="306" r="6" fill="#21183E" stroke="#EBA7D0" stroke-width="2"/>
+<text x="1088" y="345" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2" fill="#717FA4" text-anchor="end">BUILD / SHIP / IMPROVE</text>
+</svg>
